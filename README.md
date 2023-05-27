@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sahil Chaudhari</h1>
-<h3 align="center">I'm Sahil a Pre-Final year Information Technology Undergraduate from Vishwakarma Institue of Information Technology, Pune. I'm a Tech Enthusiast. I love to explore and learn about new domains and Technologies. I love working in a healthy, innovative and challenging environment extracting the best out of me, which is conducive to learn and grow at professional as well as personal level.</h3>
+<h3 align="center">I'm Sahil a Final year Information Technology Undergraduate from Vishwakarma Institue of Information Technology, Pune. I'm a Tech Enthusiast. I love to explore and learn about new domains and Technologies. I love working in a healthy, innovative and challenging environment extracting the best out of me, which is conducive to learn and grow at professional as well as personal level.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahil-chaudhari&label=Profile%20views&color=0e75b6&style=flat" alt="sahil-chaudhari" /> </p>
 

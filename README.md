@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sahil-Chaudhari](https://github.com/Sahil-Chaudhari)
 
-- 💬 Ask me about **Ask me about HTML, CSS, Bootstrap, JavaScript, C++, C, Python, Java**
+- 💬 Ask me about **Ask me about C++, Java, Python, HTML, CSS, Javascript, Mysql, MongoDB, React.js, Express.js, Node.js.**
 
 - 📫 How to reach me **chaudharisahil475@gmail.com**
 
